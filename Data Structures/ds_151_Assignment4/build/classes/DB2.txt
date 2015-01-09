@@ -1,0 +1,5 @@
+LilyAldrin X=409 Y=120
+MarshallEriksen X=500 Y=112
+TedMosby X=327 Y=102
+RobinScherbatsky X=243 Y=116
+BarneyStinson X=144 Y=76

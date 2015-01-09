@@ -1,0 +1,7 @@
+Hefer X=140 Y=48
+Tali X=246 Y=107
+Amir X=295 Y=50
+Eyal X=455 Y=51
+Lilach X=546 Y=98
+Daniel X=506 Y=202
+Yardena X=252 Y=172
